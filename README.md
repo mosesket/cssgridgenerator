@@ -8,8 +8,11 @@
 
 additional resources 
 https://css-tricks.com/snippets/css/complete-guide-grid/
+
 https://cssgridgenerator.io/
+
 https://www.tailwindgen.com/
+
 
 ![CSS Grid Generator](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/og-cssgrid.jpg)
 
