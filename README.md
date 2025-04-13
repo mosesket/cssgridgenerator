@@ -6,6 +6,11 @@
 
 ### Site: [https://cssgrid-generator.netlify.com/](https://cssgrid-generator.netlify.com/)
 
+additional resources 
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://cssgridgenerator.io/
+https://www.tailwindgen.com/
+
 ![CSS Grid Generator](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/og-cssgrid.jpg)
 
 This project is a way for people to use CSS Grid features quickly to create dynamic layouts.
